@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/@thunder__alpha/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fthunder alpha%2F&subtitle=@thunder__alpha&size=square" alt="thuneder alpha">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fthunder__alpha%2F&subtitle=@thunder__alpha&size=square" alt="thuneder alpha">
       </a>
     </td>
     <td align="center">
